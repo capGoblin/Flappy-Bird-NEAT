@@ -1,5 +1,5 @@
-# Flappy Bird NEAT
-This repository contains an implementation of the Flappy Bird game using reinforcement learning (RL) techniques. The goal of the project is to train an RL agent to play Flappy Bird autonomously by learning from its interactions with the game environment. Using the NEAT(NeuroEvolution of Augmenting Topologies) python module. The game was designed using the pygame library while NEAT was implemented using the Python-NEAT package. 
+# Flappy Bird NEAT (NeuroEvolution of Augmenting Topologies)
+This repository contains an implementation of the Flappy Bird game using reinforcement learning (RL) techniques. The goal of the project is to train an RL agent to play Flappy Bird autonomously by learning from its interactions with the game environment. Using the NEAT python module. The game was designed using the pygame library while NEAT was implemented using the Python-NEAT package. 
 
 - config.txt has the configuration settings required for NEAT implementation.
 - FlappyBird-NEAT.py Implements NEAT algorithm to train the pop_size/birds for every generation(group or population of genomes).
